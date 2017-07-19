@@ -9,9 +9,9 @@ Other repo copy and content are licensed CC-BY.
 
 The Virginia Cube started as a mix of cards and proxies based on the Magic the Gathering Online (MTGO) Vintage Cube.
 
-Development began in 2016. We typically rotate 10 cards every other month.
-
 We have since updated it with local players' favorite cards from throughout Magic history, as well as with several multi-color cards to promote a red splash in other decks.
+
+Development began in 2016. We typically rotate 10 cards every other month.
 
 ## Themes
 
