@@ -28,3 +28,5 @@ Well-supported themes that are draftable from the cube include:
 - Wx Prison
 
 We're using red to splash a lot of wheel effects and make the color more draftable.
+
+*Last updated 7.23.17*
