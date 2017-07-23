@@ -11,10 +11,9 @@ The Virginia Cube started as a mix of cards and proxies based on the Magic the G
 
 We have since updated it with local players' favorite cards from throughout Magic history, as well as with several multi-color cards to promote a red splash in other decks.
 
-Development began in 2016. We typically cards when a new set comes out, which gives us a cosistent, recurring opportunity to evaluate what's working and not working in the cube and to order cards - new and old - that can help improve it and make it more fun to draft.
+Development began in 2016. We typically cycle cards in and out when a new set comes out, which gives us a cosistent, recurring opportunity to evaluate what's working and not working in the cube and to order cards - new and old - that can help improve it and make it more fun to draft.
 
 ## Themes
-
 Well-supported themes that are draftable from the cube include:
 
 - 5C Ramp
