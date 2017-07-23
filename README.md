@@ -1,9 +1,11 @@
 # virginia-cube
 A repo for sharing the contents of the Virginia Cube, a Magic the Gathering draft cube.
 
-The Virginia Cube is licensed under a GNU 2.0 license.
+The make-up of the Virginia Cube is licensed under a GNU 2.0 license.
 
-Other repo copy and content are licensed CC-BY.
+Other original repo copy and content are licensed CC-BY.
+
+We claim no ownership whatsoever over the card designs in the cube.
 
 ## Development
 
